@@ -6,3 +6,6 @@
 
 >#### **Problem 2** 
 >##### Find  the sum of natural number to given term using recursion
+
+>#### **Problem 3** 
+>##### Find  the fibonacci series up to the given term using recursion
