@@ -9,3 +9,6 @@
 
 >#### **Problem 3** 
 >##### Find  the fibonacci series up to the given term using recursion
+
+>#### **Problem 4** 
+>##### Swap values of two variable using pointer
